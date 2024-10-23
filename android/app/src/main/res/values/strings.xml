@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Futsal AM</string>
+    <string name="title_payment_failed">Payment Failed</string>
+    <!-- Tambahkan string lainnya di sini -->
+</resources>

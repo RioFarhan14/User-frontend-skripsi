@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253104988292",
+    "project_id": "booking-app-skripsi",
+    "storage_bucket": "booking-app-skripsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253104988292:android:ad611a1cee24c6681362d1",
+        "android_client_info": {
+          "package_name": "com.example.user_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zKGLs5MmmsMsbFhad2oQpIzYU4Civm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
